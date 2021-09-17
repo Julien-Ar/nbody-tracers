@@ -1,10 +1,11 @@
 # nbody-tracers
 Simulation of a galaxy using tracer particles (particles without mass) and a single massive particle at its center 
 
+Run the code with :  /build/$ cmake ..
+                     /build/$ make
+                     /build/$ ./main ../dataset/galaxy.dat
 
-Run the code with :  ./main dataset
-
-Gifs made using Paraview and ffmpeg.
+Open the .particles files with Paraview 
 
 Credits goes to [@astro_md](https://twitter.com/astro_md) on Twitter,
 for the inspiration, and the datasets. His [github](https://github.com/mdelorme/gravity_solver_stream).
