@@ -2,11 +2,11 @@
 Simulation of a galaxy using tracer particles (particles without mass) and a single massive particle at its center 
 
 Run the code with :  
-.../build/$ cmake ..
+... /build/$ cmake ..
 
-.../build/$ make
+... /build/$ make
                      
-.../build/$ ./main ../dataset/galaxy.dat
+... /build/$ ./main ../dataset/galaxy.dat
                      
 
 Open the .particles files with Paraview.
