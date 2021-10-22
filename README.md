@@ -11,8 +11,7 @@ Run the code with :
 
 Open the .particles files with Paraview.
 
-Credits goes to [@astro_md](https://twitter.com/astro_md) on Twitter,
-for the inspiration, and the datasets. His [github](https://github.com/mdelorme/gravity_solver_stream).
+Credits goes to [@astro_md](https://twitter.com/astro_md) for the datasets.
 
 ![One galaxy](https://raw.githubusercontent.com/Julien-Ar/nbody-tracers/main/gifs/single_galaxy.gif)
 ![Two_galaxies](https://raw.githubusercontent.com/Julien-Ar/nbody-tracers/main/gifs/two_galaxies.gif)
