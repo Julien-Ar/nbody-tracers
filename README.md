@@ -11,7 +11,7 @@ Run the code with :
 
 Open the .particles files with Paraview.
 
-Credits goes to [@astro_md](https://twitter.com/astro_md) for the datasets.
+Credits go to [@astro_md](https://twitter.com/astro_md) for the datasets.
 
 ![One galaxy](https://raw.githubusercontent.com/Julien-Ar/nbody-tracers/main/gifs/single_galaxy.gif)
 ![Two_galaxies](https://raw.githubusercontent.com/Julien-Ar/nbody-tracers/main/gifs/two_galaxies.gif)
